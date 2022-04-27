@@ -13,6 +13,7 @@ high = 1000
 
 print("To think of a number between {} and {}.".format(low, high))
 input("hit enter to start")
+print()
 
 guesses = 1
 while True:
